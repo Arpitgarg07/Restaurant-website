@@ -14,17 +14,15 @@ This is a responsive, interactive website developed during a 15-day internship. 
 
 
 
-
-
-
-
-
 ## Technologies Used
 
 - HTML5: Structured and semantic markup.
 - CSS3: Custom styles for a visually engaging interface.
-- JavaScript: Added interactivity and smooth user experience.
+-JavaScript: Added interactivity and smooth user experience.
 
 
+## The restro can use this website for capture large market and large foodies
 
+
+### made by arpit during internship project
 
