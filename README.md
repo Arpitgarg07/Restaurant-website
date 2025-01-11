@@ -21,6 +21,7 @@ This is a responsive, interactive website developed during a 15-day internship. 
 -JavaScript: Added interactivity and smooth user experience.
 
 
+
 ## The restro can use this website for capture large market and large foodies
 
 
